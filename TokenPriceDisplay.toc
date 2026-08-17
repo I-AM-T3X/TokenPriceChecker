@@ -1,8 +1,8 @@
-## Interface: 120001, 120005
+## Interface: 120005, 120007, 120100
 ## Title: Token Price Display
 ## Notes: Displays the current WoW Token price in a small movable window.
 ## Author: I-AM-T3X
-## Version: 1.6.4
+## Version: 1.6.6
 ## SavedVariables: TokenPriceDisplayDB, TokenPriceDisplaySettings, TokenPriceHistoryDB
 
 TokenPriceDisplay.lua
